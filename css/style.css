@@ -140,6 +140,15 @@ h6,
     transform: rotate(-180deg);
 }
 
+
+.navbar-toggler {
+    margin-left: 40%;
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link  {
         margin-right: 0;
@@ -168,6 +177,7 @@ h6,
         visibility: visible;
         transition: .5s;
         opacity: 1;
+        
     }
 }
 /* for hover dd ends*/
