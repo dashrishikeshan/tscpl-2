@@ -101,7 +101,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link {
     font-family: 'Barlow', sans-serif;
-    padding: 35px 15px;
+    padding: 25px 15px;
     font-size: 18px;
     text-transform: uppercase;
     color: var(--dark);
@@ -125,8 +125,18 @@ h6,
 }
 
 /* for hover dd */
+/* new code for vertical view of list item */
+.list-item-1{
+font-family: 'Barlow', sans-serif;;
+color: #1D60A3;
+}
+.list-item-1:hover{
+    color: #C81543;
+    font-weight: 600;    
+    }
 
-.navbar .dropdown-toggle::after {
+
+/* .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
     font-family: "Font Awesome 5 Free";
@@ -138,7 +148,7 @@ h6,
 
 .navbar .dropdown-toggle[aria-expanded=true]::after {
     transform: rotate(-180deg);
-}
+} */
 
 
 .navbar-toggler {
