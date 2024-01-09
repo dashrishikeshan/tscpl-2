@@ -330,3 +330,11 @@ color: #1D60A3;
 .blog-item:hover img {
     transform: scale(1.1);
 }
+
+.faqs-qa{
+    font-family: Verdana, Tahoma, sans-serif;
+    margin-left: 10px;
+    text-align: justify;
+    margin-right: 10px;
+
+}
