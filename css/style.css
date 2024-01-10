@@ -342,3 +342,16 @@ color: #1D60A3;
 .git-manual{
     width: 50%;
 }
+
+.gdpr-manual{
+    margin-left: 45px;
+    margin-right: 100px;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.list-gdpr-01{
+    margin-left: 10%;
+    padding-bottom: .5%;
+    font-weight: 600;
+}
