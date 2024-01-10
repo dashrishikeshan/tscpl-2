@@ -340,5 +340,7 @@ color: #1D60A3;
 }
 
 .git-manual{
-    width: 50%;
+    width: 55%;
+    text-align: left;
+    margin-left: 20%;
 }
