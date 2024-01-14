@@ -369,3 +369,30 @@ color: #1D60A3;
         width: 90%;
     }
 }    
+
+
+.btn-tsc{
+    background-color: rgba(20, 0, 109, 0.918);
+    color: #F6F6F6;
+    margin-right: 25px;
+    margin-left: 25px;
+    width: 400px;
+    height: 70px;
+}
+
+.btn-op{
+    background-color: rgba(0, 109, 42, 0.918);
+    color: #F6F6F6;
+    width: 400px;
+    height: 70px;
+}
+
+.man-op{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25%;
+
+
+}
+
