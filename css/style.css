@@ -344,18 +344,23 @@ color: #1D60A3;
 }
 
 .gdpr-manual{
-    margin-left: 45px;
-    margin-right: 100px;
+    margin-left: 35px;
+    margin-right: 85px;
     margin-top: 10px;
     text-align: justify;
 }
 
 .list-gdpr-01{
-    margin-left: 10%;
+    margin-left: 5%;
     padding-bottom: .5%;
-    font-weight: 600;
+    font-weight: 500;
+    text-align: justify;
 }
-
+.Sub-list-gdpr-01{
+    list-style:square;
+    margin-left: 13%;
+    font-style: oblique;
+}
 @media (max-width: 992px){
     .gdpr-manual{
         margin-left: 20px;
