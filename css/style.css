@@ -392,7 +392,30 @@ color: #1D60A3;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 25%;
-
-
 }
 
+
+.list-item-0{
+font-family: 'Barlow', sans-serif;;
+color: #1D60A3;
+}
+.list-item-0:hover{
+    color: #C81543;
+    font-weight: 600;    
+    }
+.btn-grp-man-3{
+    width: fit-content;
+}
+
+.btn-group{
+    position: relative;
+    display: inline-flex;
+    vertical-align: middle;
+    width: max-content;
+}
+@media (min-width: 992px){
+.dropdown-menu {
+   width:max-content;
+}
+
+}
