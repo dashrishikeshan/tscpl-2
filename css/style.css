@@ -426,3 +426,7 @@ color: #1D60A3;
     padding-bottom: 10px;
 }
 
+#more {
+    display: none;
+}
+
